@@ -1,0 +1,9 @@
+form {
+    padding: 1em;
+    margin-bottom: 1em;
+}
+
+form button {
+    text-align: center;
+    margin: 1em;
+}

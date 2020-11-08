@@ -1,0 +1,17 @@
+/* Bajar el contenido del body porque la fixed navbar ocupa el top de la pantalla*/
+#divBody {
+    min-height: 75rem;
+    padding-top: 4.5rem;
+}
+
+/*opacidad del modal usado en  Alert, Confirm y Pantalla */
+modal-backdrop {
+    opacity: 0.8;
+}
+
+
+
+.help-inline
+{
+    color:red;
+}
